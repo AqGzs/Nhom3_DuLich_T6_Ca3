@@ -5,5 +5,7 @@
 <p align="center">
   <img src="arap.jpg" alt="Size Limit CLI" width="738">
 </p>
+  - Mục đích :
+    + Gặp Goat [CR7](https://vi.wikipedia.org/wiki/Cristiano_Ronaldo)
 
 
